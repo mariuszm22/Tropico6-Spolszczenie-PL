@@ -2,7 +2,7 @@
 
 Kompletne fanowskie polskie tłumaczenie gry **Tropico 6**.
 
-## Aktualna wersja
+## Aktualne wydanie
 
 **v1.0.0**
 
