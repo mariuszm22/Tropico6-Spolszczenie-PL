@@ -1,3 +1,5 @@
+![Tropico 6 — Spolszczenie PL](banner.png)
+
 # Tropico 6 — Spolszczenie PL
 
 Kompletne fanowskie polskie tłumaczenie gry **Tropico 6**.
