@@ -15,28 +15,28 @@ Kompletne fanowskie polskie tłumaczenie gry **Tropico 6**.
 ## 📷 Zrzuty ekranu
 
 <p align="center">
-  <img src="01-menu.jpg" width="48%">
-  <img src="02-zadanie-ue.jpg" width="48%">
+  <img src="screenshots/01-menu.jpg" width="48%">
+  <img src="screenshots/02-zadanie-ue.jpg" width="48%">
 </p>
 
 <p align="center">
-  <img src="03-polityka.jpg" width="48%">
-  <img src="04-budowa.jpg" width="48%">
+  <img src="screenshots/03-polityka.jpg" width="48%">
+  <img src="screenshots/04-budowa.jpg" width="48%">
 </p>
 
 <p align="center">
-  <img src="05-konstytucja.jpg" width="48%">
-  <img src="06-palac.jpg" width="48%">
+  <img src="screenshots/05-konstytucja.jpg" width="48%">
+  <img src="screenshots/06-palac.jpg" width="48%">
 </p>
 
 <p align="center">
-  <img src="07-badania.jpg" width="48%">
-  <img src="08-handel.jpg" width="48%">
+  <img src="screenshots/07-badania.jpg" width="48%">
+  <img src="screenshots/08-handel.jpg" width="48%">
 </p>
 
 <p align="center">
-  <img src="09-gospodarka.jpg" width="48%">
-  <img src="10-ranczo-przemyslowe.jpg" width="48%">
+  <img src="screenshots/09-gospodarka.jpg" width="48%">
+  <img src="screenshots/10-ranczo-przemyslowe.jpg" width="48%">
 </p>
 
 ---
