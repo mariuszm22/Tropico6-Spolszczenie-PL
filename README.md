@@ -1,69 +1,109 @@
 ![Tropico 6 — Spolszczenie PL](banner.png)
 
-# Tropico 6 — Spolszczenie PL
+# 🇵🇱 Tropico 6 — Spolszczenie PL
 
 Kompletne fanowskie polskie tłumaczenie gry **Tropico 6**.
 
-## Aktualne wydanie
+## 📦 Aktualne wydanie
 
 **v1.0.0**
 
-[📥 Pobierz najnowszą wersję](https://github.com/mariuszm22/Tropico6-Spolszczenie-PL/releases/latest)
+➡️ **[Pobierz najnowszą wersję](https://github.com/mariuszm22/Tropico6-Spolszczenie-PL/releases/latest)**
 
 ---
 
-## Zawartość tłumaczenia
+## 📷 Zrzuty ekranu
 
-- pełna gra podstawowa,
-- wszystkie teksty dodatków DLC znajdujące się w aktualnych plikach lokalizacyjnych,
-- menu i interfejs,
-- misje,
-- wydarzenia,
-- budynki,
-- konstytucja,
-- edykty,
-- opisy produktów i surowców.
+<p align="center">
+  <img src="01-menu.jpg" width="48%">
+  <img src="02-zadanie-ue.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="03-polityka.jpg" width="48%">
+  <img src="04-budowa.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="05-konstytucja.jpg" width="48%">
+  <img src="06-palac.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="07-badania.jpg" width="48%">
+  <img src="08-handel.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="09-gospodarka.jpg" width="48%">
+  <img src="10-ranczo-przemyslowe.jpg" width="48%">
+</p>
 
 ---
 
-## Instalacja
+## 📋 Zawartość tłumaczenia
+
+Spolszczenie obejmuje:
+
+- ✅ pełną grę podstawową,
+- ✅ wszystkie teksty dodatków DLC znajdujące się w aktualnych plikach lokalizacyjnych,
+- ✅ menu i interfejs użytkownika,
+- ✅ misje i wydarzenia,
+- ✅ budynki,
+- ✅ konstytucję,
+- ✅ edykty,
+- ✅ opisy produktów i surowców.
+
+---
+
+## ⚙️ Instalacja
 
 1. Pobierz najnowszą wersję z zakładki **Releases**.
 2. Rozpakuj archiwum.
 3. Skopiuj plik:
 
-`Tropico6_PL_v1.0.0.pak`
+   ```
+   Tropico6_PL_v1.0.0.pak
+   ```
 
-do folderu:
+   do folderu:
 
-`Tropico6\Content\Paks`
+   ```
+   Tropico6\Content\Paks
+   ```
 
-4. Uruchom grę i wybierz język polski.
+4. Uruchom grę i wybierz **język polski** w ustawieniach.
 
 ---
 
-## Zgłaszanie błędów
+## 🐞 Zgłaszanie błędów
 
-Jeżeli znajdziesz błąd, literówkę lub niepoprawne tłumaczenie, zgłoś je tutaj:
+Jeżeli znajdziesz literówkę, błąd lub niepoprawne tłumaczenie, zgłoś go tutaj:
 
-https://github.com/mariuszm22/Tropico6-Spolszczenie-PL/issues
+➡️ **[GitHub Issues](https://github.com/mariuszm22/Tropico6-Spolszczenie-PL/issues)**
 
 Najlepiej dołączyć:
 
-- zrzut ekranu,
-- opis miejsca,
-- ewentualnie zapis gry.
+- 📸 zrzut ekranu,
+- 📍 opis miejsca występowania błędu,
+- 💾 zapis gry (jeżeli jest potrzebny).
 
 ---
 
-## ☕Dobrowolne wsparcie
+## ☕ Dobrowolne wsparcie
 
-Jeżeli projekt okazał się pomocny i chcesz wesprzeć jego dalszy rozwój:
+Jeżeli projekt okazał się pomocny i chcesz wesprzeć jego dalszy rozwój, możesz postawić mi kawę:
 
-https://paypal.me/mariuszm22
+➡️ **[PayPal](https://paypal.me/mariuszm22)**
 
-Wsparcie jest całkowicie dobrowolne.
+Każde wsparcie jest mile widziane, ale całkowicie dobrowolne.
 
 ---
 
-Projekt jest nieoficjalny i nie jest powiązany z Kalypso Media ani Realmforge Studios.
+## ⚠️ Informacja
+
+Projekt ma charakter **nieoficjalny** i nie jest w żaden sposób powiązany z **Kalypso Media** ani **Realmforge Studios**.
+
+---
+
+## 🎮**Miłej gry! 🇵🇱**
