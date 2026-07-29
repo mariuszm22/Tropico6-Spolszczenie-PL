@@ -1,8 +1,10 @@
 ![Tropico 6 — Spolszczenie PL](banner.png)
 
-# 🇵🇱 Tropico 6 — Spolszczenie PL
+# Tropico 6 — Spolszczenie PL
 
 [Kompletne fanowskie polskie tłumaczenie gry **Tropico 6**.](https://github.com/mariuszm22/Tropico6-Spolszczenie-PL/releases/latest)
+
+Projekt obejmuje grę podstawową oraz wszystkie teksty dodatków DLC znajdujące się w aktualnych plikach lokalizacyjnych.
 
 ## 📦 Aktualne wydanie
 
@@ -106,4 +108,6 @@ Projekt ma charakter **nieoficjalny** i nie jest w żaden sposób powiązany z *
 
 ---
 
-## 🎮**Miłej gry! 🇵🇱**
+## 🎮**Miłej gry!**
+
+Życzę udanej zabawy w Tropico 6!
