@@ -2,7 +2,7 @@
 
 # 🇵🇱 Tropico 6 — Spolszczenie PL
 
-Kompletne fanowskie polskie tłumaczenie gry **Tropico 6**.
+[Kompletne fanowskie polskie tłumaczenie gry **Tropico 6**.](https://github.com/mariuszm22/Tropico6-Spolszczenie-PL/releases/latest)
 
 ## 📦 Aktualne wydanie
 
