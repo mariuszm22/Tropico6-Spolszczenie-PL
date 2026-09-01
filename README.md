@@ -2,7 +2,7 @@
 
 # Tropico 6 — Spolszczenie PL
 
-[Kompletne fanowskie polskie tłumaczenie gry **Tropico 6**.](https://github.com/mariuszm22/Tropico6-Spolszczenie-PL/releases/latest)
+Kompletne fanowskie polskie tłumaczenie gry **Tropico 6**.
 
 Projekt obejmuje grę podstawową oraz wszystkie teksty dodatków DLC znajdujące się w aktualnych plikach lokalizacyjnych.
 
@@ -11,6 +11,11 @@ Projekt obejmuje grę podstawową oraz wszystkie teksty dodatków DLC znajdując
 **v1.0.0**
 
 ➡️ **[Pobierz najnowszą wersję](https://github.com/mariuszm22/Tropico6-Spolszczenie-PL/releases/latest)**
+
+Dostępne są dwie metody instalacji:
+
+- **EXE — instalator automatyczny (zalecany)**
+- **ZIP — instalacja ręczna**
 
 ---
 
@@ -60,7 +65,22 @@ Spolszczenie obejmuje:
 
 ## ⚙️ Instalacja
 
-1. Pobierz najnowszą wersję z zakładki **Releases**.
+### Instalator automatyczny — zalecany
+
+1. Przejdź do zakładki **Releases**.
+2. Pobierz:
+   `marko22-Instalator-Tropico6-v1.exe`
+3. Uruchom instalator.
+4. Instalator automatycznie wykryje grę, sprawdzi zgodność wersji i przeprowadzi instalację spolszczenia.
+
+Instalator umożliwia również bezpieczne odinstalowanie spolszczenia.
+
+Jeśli gra nie uruchomi się po polsku, wybierz **język polski** w ustawieniach.
+
+### Instalacja ręczna — ZIP
+
+1. Pobierz:
+   `Tropico6_PL_v1.0.0.zip`
 2. Rozpakuj archiwum.
 3. Skopiuj plik:
 
@@ -74,7 +94,9 @@ Spolszczenie obejmuje:
    Tropico6\Content\Paks
    ```
 
-4. Uruchom grę i wybierz **język polski** w ustawieniach.
+4. Uruchom grę.
+
+Jeśli gra nie uruchomi się po polsku, wybierz **język polski** w ustawieniach.
 
 ---
 
@@ -94,11 +116,11 @@ Najlepiej dołączyć:
 
 ## ☕ Dobrowolne wsparcie
 
-Jeżeli projekt okazał się pomocny i chcesz wesprzeć jego dalszy rozwój, możesz postawić mi kawę:
+Jeżeli projekt okazał się pomocny i chcesz wesprzeć jego dalszy rozwój:
 
 ➡️ **[PayPal](https://paypal.me/mariuszm22)**
 
-Każde wsparcie jest mile widziane, ale całkowicie dobrowolne.
+Wsparcie projektu jest całkowicie dobrowolne.
 
 ---
 
@@ -108,6 +130,6 @@ Projekt ma charakter **nieoficjalny** i nie jest w żaden sposób powiązany z *
 
 ---
 
-## 🎮**Miłej gry!**
+## 🎮 Miłej gry!
 
 Życzę udanej zabawy w Tropico 6!
