@@ -17,6 +17,12 @@ Dostępne są dwie metody instalacji:
 - **EXE — instalator automatyczny (zalecany)**
 - **ZIP — instalacja ręczna**
 
+## Windows SmartScreen / instalator EXE
+
+Windows może wyświetlić ostrzeżenie SmartScreen, ponieważ instalator EXE nie posiada komercyjnego podpisu cyfrowego. Komunikat ten nie oznacza automatycznie wykrycia wirusa. Plik można niezależnie sprawdzić w serwisie [VirusTotal — wynik dla finalnego EXE](https://www.virustotal.com/gui/file/E8B0E49D63445A7AE49649004C71BDF03BD4240D8AB22DA64C116FAC6674E46C). Jeśli nie chcesz uruchamiać EXE, dostępna jest również wersja ZIP do instalacji ręcznej.
+
+**SmartScreen:** kliknij **„Więcej informacji”**, a następnie **„Uruchom mimo to”**.
+
 ---
 
 ## 📷 Zrzuty ekranu
