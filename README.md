@@ -12,6 +12,8 @@ Projekt obejmuje grę podstawową oraz wszystkie teksty dodatków DLC znajdując
 
 ➡️ **[Pobierz najnowszą wersję](https://github.com/mariuszm22/Tropico6-Spolszczenie-PL/releases/latest)**
 
+➡️ [Strona projektu na marko22.pl](https://marko22.pl/tropico-6)
+
 ---
 
 ## 📷 Zrzuty ekranu
